@@ -22,7 +22,7 @@ function fizzBuzz(n) {
         else fizzBuzzArray.push(i) // 'i' is not divisible by 3 or 5
     }
 
-    outputString = fizzBuzzArray.join(", ") //converts array into a string
+    outputString = fizzBuzzArray.join(", ") //converts fizzBuzzArray into a string
 
     return outputString
 
