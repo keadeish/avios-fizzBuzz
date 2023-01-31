@@ -1,7 +1,7 @@
 /**
  * Given a number `n`, return a string `outputString` containing the FizzBuzz sequence from 1 to `n`.
- * @param {n} n input integer
- * @returns {outputString} `outputString` FizzBuzz sequence string that is returned
+ * @param {n} n input integer.
+ * @returns {outputString} `outputString` FizzBuzz sequence string that is returned.
  */
 function fizzBuzz(n) {
 
